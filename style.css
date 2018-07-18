@@ -10,9 +10,8 @@
 .headshot{
     border: 2px solid blue;
     border-radius: 100px;
-    width:8%;
-    
-   
+    width:9%;
+
 }
 
 .footer{
@@ -46,11 +45,18 @@ button{
 }
 
 .pic{
+    border-style: 2px double;
     width:200px;
     height:200px;
 }
 
 
+.contact {
+    color:#cc0099;
+}
 
-
+#tech-com{
+    width:500px;
+    height:250px;
+}
 
