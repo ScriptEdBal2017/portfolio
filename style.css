@@ -60,3 +60,8 @@ button{
     height:250px;
 }
 
+#projects {
+    display:flex;
+    justify-content:space-around;
+}
+
